@@ -19,6 +19,7 @@ annotation class DatabaseLogger
 @Module
 abstract class LoggingDatabaseModule {
 
+    //test
     @DatabaseLogger
     @Singleton
     @Binds
